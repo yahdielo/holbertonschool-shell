@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#print absolute path
+
+echo $ holbertonschool-shell/basics 
