@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo $ holbertonschool-shell/basics 
+#print working directory
+ pwd
