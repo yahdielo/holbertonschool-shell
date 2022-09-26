@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp 755
+chmod 755
