@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -n '3p' iacta
+head -n '3p' iacta
