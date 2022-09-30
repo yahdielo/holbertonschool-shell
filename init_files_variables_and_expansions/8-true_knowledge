@@ -1,0 +1,2 @@
+#!/bin/bash
+TRUEKNOLEDGE=`echo "[1 + 2 + 8]" | bc` 
