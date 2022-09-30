@@ -1,2 +1,2 @@
 #!/bin/bash
-TRUEKNOLEDGE=`echo "[1 + 2 + 8]" | tr 
+echo $((TRUEKNOLEDGE=128))
